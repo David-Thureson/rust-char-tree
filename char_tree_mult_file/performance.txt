@@ -1,0 +1,13 @@
+Trie:
+Read file = 9.524196ms
+Make vector = 37.073487ms
+Word count = 584983
+Make tree = 1.2056246s
+Print = 554.807145ms
+
+Map:
+Read file = 4.525491ms
+Make vector = 25.987196ms
+Word count = 584983
+Make tree = 638.765345ms  (1,789 nodes per msec, approx 550 msec for one million nodes)
+Print = 160.779073ms
